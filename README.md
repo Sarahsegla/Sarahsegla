@@ -1,14 +1,7 @@
-### Hi there 👋
 
-<!--
-**Sarahsegla/Sarahsegla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👋 Hey! I’m Sarah...
+- 👋 Hey! I’m Sarah
 - 😌 I am a Front-end Web Developer
-- 🌱 I’m currently learning NodeJs and React...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her...
-- ⚡ Fun fact: My nickname is basmati...
--->
+- 🌱 I’m currently learning NodeJs and React
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: My nickname is basmati
+
